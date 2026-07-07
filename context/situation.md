@@ -34,9 +34,10 @@ need not wait on a college with a free couple flat.
 
 ### The real blocker — college membership → CAS → visa
 
-- The CAS is issued only once **all ten offer conditions** are met. We're actively
-  clearing the rest on our side (**second/commitment fee paid** — Lu's is; Imanol should
-  pay his ASAP), so **college membership is the one condition left outside our control**.
+- The CAS is issued only once **all ten offer conditions** are met. We're clearing the
+  rest on our side (**Lu's commitment/second fee is paid; Imanol can't pay his until ~end
+  of this week at the earliest**), so **college membership is the one condition genuinely
+  outside our control**. The email does not claim the fee is paid, to avoid overstating.
 - Without the CAS we cannot apply for the **student visa**.
 - Note (per Lu): the CAS does **not** require us to have accommodation secured — securing
   housing is a separate matter and should **not** be raised with Elizabeth.
@@ -45,10 +46,10 @@ need not wait on a college with a free couple flat.
 ## Hard constraints
 
 - **Flights to London booked for 25 August 2026** — fixed.
-- **Standard student visa ≈ £500** (our figure via Lu). If the CAS lands late, we're
-  forced onto the **priority / "express"** service, which roughly **doubles** the cost —
-  an avoidable expense purely due to delay. (Real UKVI numbers for reference are in
-  the analysis file; the practical point stands.)
+- **Student visa (from outside UK, 2026 schedule): standard £558; Priority ("express")
+  £1,058 (≈1.9×, "roughly double"); Super Priority £1,558 (≈2.8×).** Plus IHS £776/yr.
+  A late CAS forces a £500–£1,000 paid upgrade we'd otherwise avoid. (Fact-checked with
+  sources in the analysis file.)
 
 ## What we want
 

@@ -64,14 +64,24 @@ and stressful** — that's fair and firm — **without alleging discrimination**
   us to have housing secured, and housing isn't Elizabeth's responsibility. Raising it
   only adds noise she has to read past. Private accommodation stays a separate workstream.
 
-## The visa math (why the deadline is real)
+## The visa math (why the deadline is real) — fact-checked
 
 - Flights: **25 August**.
 - You need the **CAS first**, then apply for the visa from Argentina.
-- UKVI processing: **standard** service, then paid upgrades — **Priority ≈ 5 working
-  days (+£500)** and **Super Priority ≈ next working day (+£1,000)** on top of the base
-  fee. (Your "£500 standard / double for express" figure is close enough in spirit: a
-  late CAS forces a paid upgrade of roughly £500+ that we'd otherwise avoid.)
+- UKVI Student visa fees (applications from outside the UK, schedule effective **8 April
+  2026**):
+
+  | Service | Total cost | Decision time |
+  | --- | --- | --- |
+  | Standard | **£558** | ~3 weeks / 15 working days |
+  | Priority ("express") | **£1,058** (£558 + £500) | 5 working days |
+  | Super Priority | **£1,558** (£558 + £1,000) | next working day |
+
+  Separately, the **Immigration Health Surcharge is £776/year**, paid upfront regardless
+  of speed.
+- **So "express roughly doubles it" is accurate:** £558 → £1,058 = **~1.9×**. If we're
+  late enough to need **Super Priority** (next-day), it's £1,558 ≈ **~2.8×** — worse.
+  Either way, a late CAS forces a paid upgrade of **£500–£1,000** we'd otherwise avoid.
 - If membership lands in **early–mid August**, we're forced onto priority/super‑priority
   to make the flights — an avoidable extra cost, and a real risk of not having the visa in
   hand in time. **That** is the concrete, legitimate pressure point for the email.
@@ -105,3 +115,7 @@ push from our side.
 - UK visa priority / super‑priority fees (Priority +£500 ≈ 5 working days; Super
   Priority +£1,000 ≈ next working day):
   <https://www.gov.uk/faster-decision-visa-settlement>
+- Student visa base fee £558 from 8 April 2026, + Priority £500 (total £1,058) / Super
+  Priority £1,000 (total £1,558); standard processing ~15 working days; IHS £776/yr:
+  <https://www.atava.co.uk/uk-student-visa-fees-april-2026/> and
+  <https://www.gov.uk/student-visa>
