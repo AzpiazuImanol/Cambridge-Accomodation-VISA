@@ -1,4 +1,42 @@
-# Draft email to Elizabeth
+# Email to Elizabeth
+
+## ✅ FINAL VERSION — as sent
+
+**Subject:** College membership — the last condition holding up our CAS
+
+Dear Elizabeth,
+
+Thank you again for reaching out to St Edmund's for us, we really appreciate it.
+
+I wanted to share where we stand, as we're growing anxious about timing. After being
+declined by Wolfson and Hughes, with Clare Hall full, our college membership still isn't
+confirmed — and as it's one of the ten conditions that must be met before our CAS can be
+issued, our visa application is on hold. We're working through the remaining conditions on
+our side, so membership is really the one piece left outside our control.
+
+When we booked our flights to the UK, we didn't know that obtaining the CAS would require
+us to satisfy all ten conditions (college membership among them) and frankly thought that
+five weeks after submitting our College choices, it would be getting resolved by now. We
+fly to the UK on 25 August — earlier than registration — partly to visit family and partly
+because fares were climbing quickly. With that date approaching, a late confirmation would
+force us onto the priority ("express") visa service, which roughly doubles the original
+cost of £560.
+
+Two questions, if you're able to help:
+1. Is there an internal deadline by which all college memberships are finalised? Even the
+   latest date we should expect confirmation would help us plan the visa.
+2. Is there any possibility the CAS could be issued with membership still pending, provided
+   the other conditions are met — and if not, is there anything that could help accelerate
+   our college placement?
+
+Thank you so much in advance. Any guidance would mean a lot right now.
+
+Warm regards,
+Imanol & Luciana
+
+---
+
+## Working draft (history)
 
 _Revised with Lu's feedback: warmer, connected tone; **no mention of accommodation** (not
 Elizabeth's responsibility, and the CAS does not depend on us securing housing); the flight
