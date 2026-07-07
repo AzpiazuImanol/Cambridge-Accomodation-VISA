@@ -24,12 +24,13 @@ student visa**, ahead of flights already booked to **London on 25 August**.
 
 So: four colleges in, still **no confirmed college membership**.
 
-### Accommodation — now solved privately
+### Accommodation — being arranged privately (in progress)
 
-We stopped waiting on college housing and searched the private market ourselves.
-Full analysis of 6 options + ranking is in
+We've stopped waiting on college housing and are searching the private market ourselves —
+**not yet secured, still looking.** Full analysis of 6 options + ranking is in
 [`../accommodation/private-options.md`](../accommodation/private-options.md).
-**Housing is therefore no longer the blocker** — we can arrange where we live ourselves.
+The point for the visa is that **we won't need college‑provided housing** — so membership
+need not wait on a college with a free couple flat.
 
 ### The real blocker — college membership → CAS → visa
 

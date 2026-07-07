@@ -17,7 +17,7 @@ route effectively closed.
 
 ## The core problem right now
 
-Accommodation is **solved** (private route). The blocker is **college membership**,
+Accommodation is being **arranged privately** (in progress). The blocker is **college membership**,
 which is required for the **CAS**, which is required for the **student visa**.
 Every week of delay pushes us toward the "express"/priority visa service at roughly
 double the cost — an avoidable expense caused by a delay outside our control.

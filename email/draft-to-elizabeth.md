@@ -12,15 +12,15 @@ Dear Elizabeth,
 Thank you for contacting St Edmund's for us. I'll be brief.
 
 We've now been declined by Wolfson and Hughes, with Clare Hall full — still no college
-membership. We've sorted our **own private accommodation**, so housing is no longer the
-issue. The one blocker left is that **membership is needed for our CAS, and the CAS for
-our visa** — and we fly to **London on 25 August**. If it comes late, we're forced onto
-the "express" visa at roughly double the cost.
+membership. We're now **arranging our own private accommodation**, so we won't need
+college housing. The one blocker left is that **membership is needed for our CAS, and the
+CAS for our visa** — and we fly to **London on 25 August**. If it comes late, we're
+forced onto the "express" visa at roughly double the cost.
 
 Could you help with two things:
 
-1. A **firm date** for our college membership under the MBA guarantee — and can the
-   **CAS progress on membership alone**, now that we've arranged our own housing?
+1. A **firm date** for our college membership under the MBA guarantee — and, since we're
+   not relying on college accommodation, can the **CAS progress on membership alone**?
 2. **Who else we can contact directly** (Programme Office / Postgraduate Admissions) to
    push this from our side?
 
@@ -37,8 +37,9 @@ Imanol (and Luciana)
 - **Deliberately left out:** the "Argentinians vs Indians" framing (very likely untrue —
   see `analysis/honest-take.md`) and the detailed college timeline. Both cost you reading
   time and, in the first case, Elizabeth's goodwill.
-- **Optional:** if you've actually committed to a private place, name it ("we've secured X
-  from [date]") — a concrete address makes the "issue the CAS now" ask harder to defer.
+- **Optional (once you actually secure a place):** name it ("we've secured X from [date]")
+  — a concrete address makes the "issue the CAS now" ask much harder to defer. Until then,
+  "arranging our own accommodation" is the honest and still‑useful framing.
 
 ---
 
@@ -56,15 +57,14 @@ I want to be candid about where we now stand, because it has become time‑criti
 
 - We've been declined by Wolfson and Hughes, with Clare Hall full and St Edmund's
   pending — four colleges, still no confirmed membership.
-- We've taken accommodation into our own hands and have private options ready to secure,
-  so **housing is no longer our blocker**.
+- We're arranging our own private accommodation, so we **won't need college housing**.
 - The real problem is that **membership is required for our CAS, and without the CAS we
   cannot apply for our visa** — and we fly to **London on 25 August**. A late CAS forces
   us onto the priority/"express" service at roughly double the cost.
 
 Could you help with: (1) a **firm date** for membership under the guarantee; (2) whether
-the **CAS can progress on membership alone** now that we've arranged our own housing; and
-(3) **who else we should contact directly** (Programme Office / Postgraduate Admissions)
+the **CAS can progress on membership alone** since we're not relying on college housing;
+and (3) **who else we should contact directly** (Programme Office / Postgraduate Admissions)
 to push from our side?
 
 We're fully committed and ready — accommodation sorted, flights booked. Any help to
