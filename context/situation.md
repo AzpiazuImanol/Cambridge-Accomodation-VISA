@@ -17,6 +17,8 @@ student visa**, ahead of flights already booked to **London on 25 August**.
 
 ### College timeline (all for accommodation/membership)
 
+**College choices submitted 1 June 2026** — still unresolved 5+ weeks later.
+
 1. **Wolfson** — first choice → **rejected**.
 2. **Hughes Hall** — second choice → **rejected (today, as of early July)**.
 3. **Clare Hall** — **already full / all occupied**.
