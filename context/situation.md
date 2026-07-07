@@ -34,9 +34,12 @@ need not wait on a college with a free couple flat.
 
 ### The real blocker — college membership → CAS → visa
 
-- College membership is a requirement for our **CAS** (Confirmation of Acceptance
-  for Studies).
+- The CAS is issued only once **all ten offer conditions** are met. We're actively
+  clearing the rest on our side (**second/commitment fee paid** — Lu's is; Imanol should
+  pay his ASAP), so **college membership is the one condition left outside our control**.
 - Without the CAS we cannot apply for the **student visa**.
+- Note (per Lu): the CAS does **not** require us to have accommodation secured — securing
+  housing is a separate matter and should **not** be raised with Elizabeth.
 - This has already cost us significant time on the visa process.
 
 ## Hard constraints
@@ -49,9 +52,15 @@ need not wait on a college with a free couple flat.
 
 ## What we want
 
-Get back in touch with Elizabeth — **firmly but politely** — to:
+Get back in touch with Elizabeth — **firmly but politely, warm and connected in tone** —
+to (per Lu's feedback):
 
-- Explain we've solved accommodation ourselves; the blocker is now membership/CAS.
-- Say plainly that repeated rejections this late are hard to understand and stressful.
-- Ask what can be done, **who** we can contact, and how we can push it ourselves.
-- Make the **visa deadline and double‑cost risk** explicit.
+- **Not** mention accommodation at all — it isn't her responsibility and doesn't gate the CAS.
+- State that membership is the last of the ten conditions holding up our CAS/visa, and that
+  we're clearing the rest ourselves (commitment fee paid).
+- Give **context for the early flight** (family visit + rising fares + not knowing the CAS
+  needed all ten conditions) so she can't dismiss it as "you don't need to arrive early."
+- Ask two sharp questions: (1) is there an **internal deadline** for finalising all college
+  memberships? (2) can the **CAS be issued with membership still pending** if the other
+  conditions are met — and if not, what could **accelerate** our placement?
+- Keep the **express-visa double-cost** risk explicit.

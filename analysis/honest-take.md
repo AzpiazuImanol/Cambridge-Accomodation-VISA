@@ -54,13 +54,15 @@ and stressful** — that's fair and firm — **without alleging discrimination**
   a bar — it's a process delay against a promise the school made. That's fair pressure.
 - **The University sponsors the visa, not the college.** The University holds the
   student sponsor licence; the **Postgraduate Admissions Office issues the CAS**. UKVI
-  treats the colleges' premises as part of the University's premises. So in principle
-  the CAS depends on *a* confirmed membership/placement — **not on a specific college,
-  and not on college-provided housing** (which we've now solved ourselves).
-- **Decouple housing from membership.** We no longer need a college *bed*; we need a
-  college *on paper* so we can matriculate and get the CAS. That reframing is what turns
-  "wait for a college with a free couple flat" into "confirm any membership so the CAS
-  can issue."
+  treats the colleges' premises as part of the University's premises. So the CAS depends
+  on *a* confirmed membership — **not on a specific college.**
+- **Membership is the last open CAS condition.** The CAS issues once **all ten offer
+  conditions** are met. We're clearing the rest ourselves (commitment fee paid), so the
+  clean ask is: can the CAS issue with membership still pending, or — failing that — what
+  gives us a firm date / accelerates a placement.
+- **Keep accommodation out of it (Lu's call, and correct).** The CAS does **not** require
+  us to have housing secured, and housing isn't Elizabeth's responsibility. Raising it
+  only adds noise she has to read past. Private accommodation stays a separate workstream.
 
 ## The visa math (why the deadline is real)
 
@@ -71,8 +73,12 @@ and stressful** — that's fair and firm — **without alleging discrimination**
   fee. (Your "£500 standard / double for express" figure is close enough in spirit: a
   late CAS forces a paid upgrade of roughly £500+ that we'd otherwise avoid.)
 - If membership lands in **early–mid August**, we're forced onto priority/super‑priority
-  to make the 25th — an avoidable extra cost, and a real risk of not having the visa in
+  to make the flights — an avoidable extra cost, and a real risk of not having the visa in
   hand in time. **That** is the concrete, legitimate pressure point for the email.
+- **On the early flight:** we're arriving before registration on purpose (family visit +
+  rising fares), booked before we understood the CAS needed all ten conditions. Say this
+  in the email — otherwise the natural reply is "you don't need to arrive that early," which
+  dodges the real point (the visa still has to be processed *before* we fly, whenever we go).
 
 ## Bottom line
 

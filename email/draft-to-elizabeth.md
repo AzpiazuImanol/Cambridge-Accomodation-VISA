@@ -1,76 +1,57 @@
 # Draft email to Elizabeth
 
-_Elizabeth is managing dozens of applications — this is the concise version, built to be
-read and actioned in 15 seconds. Deadline is in the subject line; one blocker; two asks._
+_Revised with Lu's feedback: warmer, connected tone; **no mention of accommodation** (not
+Elizabeth's responsibility, and the CAS does not depend on us securing housing); the flight
+is given context so it can't be dismissed as "you don't need to arrive early"; and the two
+questions are sharpened._
 
-**Subject:** College membership — blocking our visa (flights 25 Aug)
+**Subject:** College membership — the last condition holding up our CAS
 
 ---
 
 Dear Elizabeth,
 
-Thank you for contacting St Edmund's for us. I'll be brief.
+Thank you again for reaching out to St Edmund's for us — we really appreciate it.
 
-We've now been declined by Wolfson and Hughes, with Clare Hall full — still no college
-membership. We're now **arranging our own private accommodation**, so we won't need
-college housing. The one blocker left is that **membership is needed for our CAS, and the
-CAS for our visa** — and we fly to **London on 25 August**. If it comes late, we're
-forced onto the "express" visa at roughly double the cost.
+I wanted to share where we stand, as we're growing anxious about timing. After being
+declined by Wolfson and Hughes, with Clare Hall full, our college membership still isn't
+confirmed — and we now understand it's one of the ten conditions we need to meet before
+the CAS can be issued, and therefore before we can apply for our visa. We're actively
+completing the other conditions on our side (the commitment fee is paid), so membership is
+really the one piece left outside our control.
 
-Could you help with two things:
+Timing is our concern. We booked our flights to the UK earlier than registration — partly
+to visit family, and partly because fares were rising fast — before we understood that the
+CAS depended on all ten conditions, membership included. A late confirmation would push us
+onto the priority ("express") visa service, at roughly double the cost.
 
-1. A **firm date** for our college membership under the MBA guarantee — and, since we're
-   not relying on college accommodation, can the **CAS progress on membership alone**?
-2. **Who else we can contact directly** (Programme Office / Postgraduate Admissions) to
-   push this from our side?
+Two questions, if you're able to help:
 
-Very grateful for any help to unblock this quickly.
+1. Is there an internal deadline by which all college memberships are finalised? Even the
+   latest date we should expect confirmation would help us plan the visa.
+2. Is there any possibility the CAS could be issued with membership still pending, provided
+   the other conditions are met — and if not, is there anything that could help accelerate
+   our college placement?
 
-Imanol (and Luciana)
+Thank you so much — any guidance would mean a lot right now.
+
+Warm regards,
+Imanol & Luciana
 
 ---
 
 ### Notes before you send
 
-- **Signature:** if Luciana is the named MBA candidate on file, send from her sign‑off —
-  Elizabeth will expect it from the applicant.
-- **Deliberately left out:** the "Argentinians vs Indians" framing (very likely untrue —
-  see `analysis/honest-take.md`) and the detailed college timeline. Both cost you reading
-  time and, in the first case, Elizabeth's goodwill.
-- **Optional (once you actually secure a place):** name it ("we've secured X from [date]")
-  — a concrete address makes the "issue the CAS now" ask much harder to defer. Until then,
-  "arranging our own accommodation" is the honest and still‑useful framing.
-
----
-
-<details>
-<summary>Longer version (if she asks for detail / for a follow‑up)</summary>
-
-**Subject:** Cambridge MBA — college membership & visa timing: urgent help needed
-
-Dear Elizabeth,
-
-Thank you for your continued help, and in particular for reaching out to St Edmund's on
-our behalf after Clare Hall came back full.
-
-I want to be candid about where we now stand, because it has become time‑critical.
-
-- We've been declined by Wolfson and Hughes, with Clare Hall full and St Edmund's
-  pending — four colleges, still no confirmed membership.
-- We're arranging our own private accommodation, so we **won't need college housing**.
-- The real problem is that **membership is required for our CAS, and without the CAS we
-  cannot apply for our visa** — and we fly to **London on 25 August**. A late CAS forces
-  us onto the priority/"express" service at roughly double the cost.
-
-Could you help with: (1) a **firm date** for membership under the guarantee; (2) whether
-the **CAS can progress on membership alone** since we're not relying on college housing;
-and (3) **who else we should contact directly** (Programme Office / Postgraduate Admissions)
-to push from our side?
-
-We're fully committed and ready — accommodation sorted, flights booked. Any help to
-unblock this quickly would mean a great deal.
-
-Thank you,
-Imanol Azpiazu (and Luciana)
-
-</details>
+- **Commitment fee:** the line "the commitment fee is paid" assumes **both** second fees
+  are paid (Lu's is). Pay yours first if you haven't, so membership is genuinely the only
+  open condition.
+- **Accommodation is deliberately not mentioned** — per Lu, it isn't Elizabeth's
+  responsibility, and the CAS does not require us to have housing secured. It stays a
+  separate private workstream (see `../accommodation/private-options.md`).
+- **Also left out:** the "Argentinians vs Indians" framing (very likely untrue — see
+  `../analysis/honest-take.md`) and the full college-by-college timeline.
+- **"Ten conditions":** phrasing follows Lu's — the CAS conditions Cambridge lists on the
+  offer. Adjust the number if the actual count differs.
+- **Realistic expectation on Q2:** Cambridge normally ties the CAS to a confirmed college
+  (matriculation requires one), so the honest likely answer is a firm date rather than a
+  CAS without membership — but asking forces one or the other, which is the point.
