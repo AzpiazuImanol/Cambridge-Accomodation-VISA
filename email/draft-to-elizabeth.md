@@ -26,10 +26,10 @@ control.
 When we booked our flights to the UK, we didn't know that obtaining the CAS would require
 us to satisfy all ten conditions — college membership among them — nor did we expect that,
 more than five weeks after submitting our College choices on 1 June, it would still be
-unresolved. We booked
-earlier than registration partly to visit family and partly because fares were climbing
-quickly. A late confirmation now would force us onto the priority ("express") visa
-service, which roughly doubles the cost.
+unresolved. We fly to the UK on **25 August** — earlier than registration — partly to
+visit family and partly because fares were climbing quickly. With that date approaching, a
+late confirmation would force us onto the priority ("express") visa service, which roughly
+doubles the cost.
 
 Two questions, if you're able to help:
 
