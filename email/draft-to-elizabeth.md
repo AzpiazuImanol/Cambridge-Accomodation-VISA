@@ -1,76 +1,76 @@
 # Draft email to Elizabeth
 
-**Subject:** Cambridge MBA — college membership & visa timing: urgent help needed
+_Elizabeth is managing dozens of applications — this is the concise version, built to be
+read and actioned in 15 seconds. Deadline is in the subject line; one blocker; two asks._
+
+**Subject:** College membership — blocking our visa (flights 25 Aug)
 
 ---
+
+Dear Elizabeth,
+
+Thank you for contacting St Edmund's for us. I'll be brief.
+
+We've now been declined by Wolfson and Hughes, with Clare Hall full — still no college
+membership. We've sorted our **own private accommodation**, so housing is no longer the
+issue. The one blocker left is that **membership is needed for our CAS, and the CAS for
+our visa** — and we fly to **London on 25 August**. If it comes late, we're forced onto
+the "express" visa at roughly double the cost.
+
+Could you help with two things:
+
+1. A **firm date** for our college membership under the MBA guarantee — and can the
+   **CAS progress on membership alone**, now that we've arranged our own housing?
+2. **Who else we can contact directly** (Programme Office / Postgraduate Admissions) to
+   push this from our side?
+
+Very grateful for any help to unblock this quickly.
+
+Imanol (and Luciana)
+
+---
+
+### Notes before you send
+
+- **Signature:** if Luciana is the named MBA candidate on file, send from her sign‑off —
+  Elizabeth will expect it from the applicant.
+- **Deliberately left out:** the "Argentinians vs Indians" framing (very likely untrue —
+  see `analysis/honest-take.md`) and the detailed college timeline. Both cost you reading
+  time and, in the first case, Elizabeth's goodwill.
+- **Optional:** if you've actually committed to a private place, name it ("we've secured X
+  from [date]") — a concrete address makes the "issue the CAS now" ask harder to defer.
+
+---
+
+<details>
+<summary>Longer version (if she asks for detail / for a follow‑up)</summary>
+
+**Subject:** Cambridge MBA — college membership & visa timing: urgent help needed
 
 Dear Elizabeth,
 
 Thank you for your continued help, and in particular for reaching out to St Edmund's on
 our behalf after Clare Hall came back full.
 
-I want to be candid with you about where we now stand, because the situation has become
-time‑critical and I need your guidance on how to move it forward.
+I want to be candid about where we now stand, because it has become time‑critical.
 
-**Where we are**
+- We've been declined by Wolfson and Hughes, with Clare Hall full and St Edmund's
+  pending — four colleges, still no confirmed membership.
+- We've taken accommodation into our own hands and have private options ready to secure,
+  so **housing is no longer our blocker**.
+- The real problem is that **membership is required for our CAS, and without the CAS we
+  cannot apply for our visa** — and we fly to **London on 25 August**. A late CAS forces
+  us onto the priority/"express" service at roughly double the cost.
 
-- We have now been declined by Wolfson, and as of today by Hughes Hall as well, with
-  Clare Hall full and St Edmund's still pending. That is four colleges, and we still have
-  no confirmed college membership.
-- On accommodation itself, we have taken matters into our own hands. Over the past week
-  we researched the private market in Cambridge and have several strong options ready to
-  secure, so **housing is no longer our blocker** — we can arrange where we live
-  ourselves.
-- The real problem is that **college membership is a requirement for our CAS, and without
-  the CAS we cannot apply for our student visa.**
+Could you help with: (1) a **firm date** for membership under the guarantee; (2) whether
+the **CAS can progress on membership alone** now that we've arranged our own housing; and
+(3) **who else we should contact directly** (Programme Office / Postgraduate Admissions)
+to push from our side?
 
-**Why this is urgent**
+We're fully committed and ready — accommodation sorted, flights booked. Any help to
+unblock this quickly would mean a great deal.
 
-- We already have **flights booked to London for 25 August**.
-- A standard student visa costs us around £500. If the membership — and therefore the
-  CAS — arrives late, we will be forced onto the priority / "express" service, which
-  **roughly doubles that cost**, purely because of a delay outside our control.
-- Every week without a confirmed college pushes us closer to that avoidable expense, and
-  to the real risk of not having the visa in hand before we fly.
-
-**Where I could use your help**
-
-I understand that college membership is described as guaranteed for MBA students, so I'll
-be honest that being turned down by one college after another this late is difficult to
-understand, and it has left us anxious. I'm not looking to point fingers — I simply need
-to understand the path forward and get it moving. Specifically:
-
-1. Is there a **firm date** by which the University will confirm a college for us under
-   the membership guarantee?
-2. Now that we have **solved our own accommodation**, can the **CAS be progressed** on
-   the basis of a confirmed membership on paper, rather than waiting on college‑provided
-   housing?
-3. **Who else should we be speaking to directly** — the MBA Programme Office, the college
-   liaison, or the Postgraduate Admissions team who issue the CAS — so we can help push
-   this from our side?
-4. Is there **anything we can do ourselves** to accelerate a placement or the CAS?
-
-We are fully committed and ready — accommodation sorted, flights booked. All that remains
-is the college membership so we can get our visa underway in time. Any help you can give
-us to unblock this quickly would mean a great deal.
-
-Thank you very much,
-
+Thank you,
 Imanol Azpiazu (and Luciana)
-[phone number]
 
----
-
-### Notes before you send
-
-- **Signature:** I signed as Imanol; if Luciana is the named MBA candidate on the file,
-  swap the sign‑off so it comes from her (Elizabeth will expect it from the applicant).
-- **Deliberately left out:** the "Argentinians vs Indians" framing. It's very likely
-  untrue (see `analysis/honest-take.md`) and would put Elizabeth — our ally — on the
-  defensive, weakening the ask. The "hard to understand / guaranteed membership" line
-  carries the same firmness without the accusation.
-- **Visa figures:** kept to your "≈£500, express roughly double" framing so nothing reads
-  as wrong. Real UKVI reference numbers are in the analysis file if you want to tighten
-  them.
-- **Optional add:** if you've actually signed/committed to a private place, name it — a
-  concrete "we've secured X from [date]" makes the CAS‑decoupling ask harder to defer.
+</details>
