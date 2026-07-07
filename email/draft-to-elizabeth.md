@@ -3,7 +3,8 @@
 _Revised with Lu's feedback: warmer, connected tone; **no mention of accommodation** (not
 Elizabeth's responsibility, and the CAS does not depend on us securing housing); the flight
 is framed as "when we booked, we didn't know the CAS needed all ten conditions, nor expected
-membership to take 2+ months" so it can't be dismissed as "you don't need to arrive early";
+membership to take 2+ months after submitting our College choices" so it can't be dismissed
+as "you don't need to arrive early";
 no claim that the commitment fee is paid (Imanol can't pay yet); and the two questions
 sharpened. Visa cost fact-checked (see notes below)._
 
@@ -24,7 +25,8 @@ control.
 
 When we booked our flights to the UK, we didn't know that obtaining the CAS would require
 us to satisfy all ten conditions — college membership among them — nor did we expect that
-membership could take more than two months to confirm after being accepted. We booked
+membership could take more than two months to confirm after submitting our College
+choices. We booked
 earlier than registration partly to visit family and partly because fares were climbing
 quickly. A late confirmation now would force us onto the priority ("express") visa
 service, which roughly doubles the cost.
