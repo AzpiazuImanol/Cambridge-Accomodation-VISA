@@ -12,6 +12,7 @@ route effectively closed.
 | --- | --- |
 | [`context/situation.md`](context/situation.md) | The full running context — people, timeline, colleges, constraints. The "memory" of this session. |
 | [`analysis/honest-take.md`](analysis/honest-take.md) | Honest assessment: is what's happening to us normal? What actually drives it, and what are the real levers. Backed by research + sources. |
+| [`analysis/next-colleges.md`](analysis/next-colleges.md) | Which colleges to submit next: full 31-college status, the 3 recommendations (Lucy Cavendish, Girton, Robinson), and an honest read of why Wolfson/Hughes rejected us. |
 | [`email/draft-to-elizabeth.md`](email/draft-to-elizabeth.md) | Draft email to Elizabeth (candidate manager) — firm, polite, with concrete asks and the visa‑timing deadline. |
 | [`accommodation/private-options.md`](accommodation/private-options.md) | Summary of the 6 private accommodation options and the final ranking. |
 | [`visa-notes/`](visa-notes/) | Consolidated notes from the Int'l Student Office (ISO) visa session. Links to the formatted [Google Doc (COMPLETE v3)](https://docs.google.com/document/d/1LGpXL64jv_trbVF2TFNlMIM1il2gDw3yuNrxzJINcDg/edit). |

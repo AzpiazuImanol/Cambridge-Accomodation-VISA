@@ -26,6 +26,14 @@ student visa**, ahead of flights already booked to **London on 25 August**.
 
 So: four colleges in, still **no confirmed college membership**.
 
+**Colleges Elizabeth flagged as closed/full (email, clear screenshot):** Pembroke, Downing,
+Selwyn, St John's, Emmanuel, Queens', Darwin, Jesus, Churchill, Magdalene, King's, Clare
+Hall, St Catharine's, Clare (Clare College), Fitzwilliam — **15**. Plus Wolfson & Hughes
+(rejected). Next colleges to submit are analysed in
+[`../analysis/next-colleges.md`](../analysis/next-colleges.md) — top picks: **Lucy
+Cavendish, Girton, Robinson**. Since we're going private, only **membership** is needed
+(no couple flat required), which widens the options.
+
 ### Accommodation — being arranged privately (in progress)
 
 We've stopped waiting on college housing and are searching the private market ourselves —
