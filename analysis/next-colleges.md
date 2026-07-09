@@ -121,5 +121,3 @@ discriminación por nacionalidad. Meter esa teoría pone a Elizabeth a la defens
 - Girton — couple/family accommodation (2025/26 ya asignadas; prioridad a nuevos en
   Cambridge): <https://www.girton.cam.ac.uk/accommodation/family-and-couple>
 - Robinson — posgrado / MCR: <https://www.robinson.cam.ac.uk/prospective-students/accommodation/postgraduate>
-</content>
-</invoke>
