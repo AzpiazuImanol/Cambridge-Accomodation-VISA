@@ -18,6 +18,11 @@ Change → Yes → pegar el número (copiar y pegar del CAS statement, NO tipear
 | Course end date | **~10/09/2027** (cierre Summer Term) | CJBS MBA Student Guide |
 | Sponsor licence number | **4NUV7KB58** | búsqueda web, sin confirmar |
 | Sponsor address | UNIVERSITY OF CAMBRIDGE, THE REGISTRY, THE OLD SCHOOL, TRINITY LANE, CB2 1TN | ✓ validado por el propio formulario |
+| Name of sponsor institution | **University of Cambridge** (no "Cambridge University") | guía ISO pág. 43 |
+| Course name | **Master of Business Administration** | a confirmar exacto en el CAS |
+| Qualification level | **RQF7/SCQF11** (maestría) | ✓ |
+| Course fees first year | **£80.000** (7.950 + 5.300 + 66.750) | payment plan; verificar en el CAS |
+| Fees ya pagados por mí | **£13.250** (Stage One + Stage Two), evidencia: receipts | reconciliar con lo que diga el CAS |
 
 Nota: el sponsor es **la Universidad**, no Judge. Por eso CB2 1TN y no CB2 1AG.
 
@@ -35,9 +40,25 @@ Otras fechas del programa (contexto): Registration Days 10-11 sept 2026 · Micha
 
 ## ⚠️ Pedido a Admissions (ahorra plata)
 
-Que **las cuotas ya pagadas figuren en el CAS**. La guía de la ISO (pág. 45) dice que los
-pagos adelantados de course fees se pueden incluir en el CAS y **reducen el monto de
-fondos que hay que acreditar**. Si no aparecen, hay que pedirlo expresamente.
+Que en el CAS figuren **las dos cosas**:
+
+1. Las **cuotas ya pagadas (£13.250)**. La guía de la ISO (pág. 45) dice que los pagos
+   adelantados de course fees se pueden incluir en el CAS y **reducen el monto de fondos
+   que hay que acreditar**. Si no aparecen, hay que pedirlo expresamente.
+2. El **Cambridge MBA Distinction Award de £10.000**. Al ser de la Universidad/Judge
+   (y no de un tercero) **sí puede ir en el CAS** (guía pág. 42: _"Funding is only stated
+   on the CAS where it is being provided by the University or your College"_).
+
+Con ambos reflejados, lo que hay que acreditar baja a **£56.750 + £10.539 de living
+costs ≈ £67.300**, en vez de sobre los £80.000 completos.
+
+### Beca: cómo quedó declarada
+
+- Fulbright / Marshall / Chevening / Commonwealth → **No** (son becas de gobierno
+  específicas; la Distinction Award no es ninguna de esas).
+- Official financial sponsor → **Yes** (la guía pág. 42 incluye "a University").
+- ¿Cubre el curso entero? → **No** (es parcial).
+- Verificar contra el CAS que el award aparezca y que esta declaración no lo contradiga.
 
 ## Pendientes que NO dependen del CAS
 
