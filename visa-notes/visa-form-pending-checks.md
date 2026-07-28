@@ -1,14 +1,26 @@
 # Visa form — qué revisar cuando llegue el CAS
 
-_Estado al 28 julio 2026. Formulario iniciado el 24/07, guardado como borrador._
+_Estado al 28 julio 2026 (noche)._
 
-## 🔴 CRÍTICO: no olvidar
+## Estado actual
 
-**Cambiar la pregunta del CAS de "No" a "Yes".** Se contestó "No" para poder seguir
-avanzando. **Si se envía la aplicación con "No", la rechazan.** Al llegar el CAS:
-Change → Yes → pegar el número (copiar y pegar del CAS statement, NO tipear).
+- La **1ª aplicación** (UAN 3434-9424-8924-2847) quedó bloqueada por la Declaration con
+  dos errores (inglés "Yes" y CAS "No") → **borrada sin enviar y sin pagar**.
+- **2ª aplicación: cargada y completa hasta Study details**, frenada en la pregunta del
+  CAS con "Save and return later". Los dos errores ya corregidos (inglés No → No → Yes;
+  UK visits pendiente confirmar que quedó en 3 con enero 2020).
+- Documento maestro con TODAS las preguntas/respuestas y colores (rojo = correcciones,
+  naranja = verificar contra CAS): Google Doc **"UK Student Visa — Formulario completo
+  (respuestas maestras)"** en la carpeta MBA LulEli.
+  <https://docs.google.com/document/d/1W_kwfR1l2gjFZsLA3pEzXs8DHhObvpbb9Ga5skiRgv0/edit>
 
-**No pagar nada** (IHS £1.164 + visa £558) hasta tener el CAS cargado.
+## 🔴 CRÍTICO al llegar el CAS
+
+Retomar la aplicación → pregunta del CAS: **Yes** → pegar el número del CAS statement
+(no tipear) → completar Study details con los datos EXACTOS del CAS → recién entonces
+Declaration (bloquea edición) y pagos.
+
+**No pagar nada** (IHS £1.164 + visa £558) hasta tener el CAS cargado y todo verificado.
 
 ## Campos cargados con datos PROVISORIOS (verificar contra el CAS)
 
