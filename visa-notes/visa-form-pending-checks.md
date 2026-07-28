@@ -1,0 +1,86 @@
+# Visa form — qué revisar cuando llegue el CAS
+
+_Estado al 28 julio 2026. Formulario iniciado el 24/07, guardado como borrador._
+
+## 🔴 CRÍTICO: no olvidar
+
+**Cambiar la pregunta del CAS de "No" a "Yes".** Se contestó "No" para poder seguir
+avanzando. **Si se envía la aplicación con "No", la rechazan.** Al llegar el CAS:
+Change → Yes → pegar el número (copiar y pegar del CAS statement, NO tipear).
+
+**No pagar nada** (IHS £1.164 + visa £558) hasta tener el CAS cargado.
+
+## Campos cargados con datos PROVISORIOS (verificar contra el CAS)
+
+| Campo | Valor provisorio | Fuente |
+| --- | --- | --- |
+| Course start date | **14/09/2026** (Orientation, inicio oficial) | CJBS MBA Student Guide |
+| Course end date | **~10/09/2027** (cierre Summer Term) | CJBS MBA Student Guide |
+| Sponsor licence number | **4NUV7KB58** | búsqueda web, sin confirmar |
+| Sponsor address | UNIVERSITY OF CAMBRIDGE, THE REGISTRY, THE OLD SCHOOL, TRINITY LANE, CB2 1TN | ✓ validado por el propio formulario |
+
+Nota: el sponsor es **la Universidad**, no Judge. Por eso CB2 1TN y no CB2 1AG.
+
+Otras fechas del programa (contexto): Registration Days 10-11 sept 2026 · Michaelmas
+14 sept–11 dic 2026 · Lent 11 ene–12 mar 2027 · GCP mar–abr 2027 · Easter 18 abr–19 jun
+2027 · Summer 28 jun–10 sept 2027.
+
+## Campos que recién se pueden completar con el CAS
+
+- Número de CAS
+- Nombre del curso (exacto como figura en el CAS)
+- Nivel de calificación (del CAS)
+- Fees del primer año (del CAS)
+- ATAS: confirmar que el CAS dice que no se requiere
+
+## ⚠️ Pedido a Admissions (ahorra plata)
+
+Que **las cuotas ya pagadas figuren en el CAS**. La guía de la ISO (pág. 45) dice que los
+pagos adelantados de course fees se pueden incluir en el CAS y **reducen el monto de
+fondos que hay que acreditar**. Si no aparecen, hay que pedirlo expresamente.
+
+## Pendientes que NO dependen del CAS
+
+- **Travel history — fecha de España:** figura julio 2024, pero los viajes por Europa
+  (Italia, Austria, Suiza, Francia, España) fueron todos en 2023. Verificar si son dos
+  viajes distintos o si la fecha está mal. Si se corrige, revisar cuál fue realmente el
+  2º viaje más reciente al grupo USA/Canadá/Australia/NZ/Suiza/EEA.
+- **Travel history — tercer viaje a UK (enero 2020):** el contador dice "2" y por eso no
+  habilita el tercer bloque. Change → poner **3** → cargar enero 2020.
+- **Additional Information (al final del formulario):** agregar la nota
+  _"Dates for some short visits and transits are approximate, as I no longer hold
+  complete records."_
+
+## Respuestas ya definidas (confirmadas contra la guía de la ISO)
+
+| Pregunta | Respuesta |
+| --- | --- |
+| Applying from | Argentina (residencia, no nacionalidad) |
+| Nacionalidad de la aplicación | **Italia** (pasaporte YC3194017) |
+| Nacional EEA/Suiza | **Sí** (la guía de la ISO dice "No" pero es para no-EEA) |
+| TB test | No (Argentina no está en la lista) |
+| Tipo de sponsor | Higher Education Provider **with a track record of compliance** |
+| UCAS | No (posgrado aplica directo) |
+| Inglés evaluado por el sponsor | Yes |
+| Alojamiento confirmado | No (no es requisito; explicar plan de alquiler privado) |
+| Pareja aplicando con vos | No (Lu aplica como estudiante independiente, no dependiente) |
+| Driving offence | Declarado: drink-driving, Argentina, 01/07/2022 (día y mes aproximados) |
+
+## Plazos
+
+- **Envío del formulario: hasta ~2 de octubre** (10 semanas desde que se creó la cuenta
+  el 24/07).
+- **Regla de 28 días de fondos:** la transferencia entró el **9 de julio** → los 28 días
+  se cumplen el **6 de agosto**. El saldo no puede bajar del monto requerido en ese
+  período, y el statement de cierre debe caer dentro de los 31 días previos a aplicar.
+- **Vuelo: 25 de agosto.** Deadline real de llegada: registración mediados de septiembre.
+
+## Ventajas por aplicar con pasaporte italiano
+
+- **Differentiation national** → no hay que presentar evidencia financiera (pero sí
+  cumplir el requisito; UKVI puede pedirla).
+- **App "UK Immigration: ID Check"** → verificación de identidad escaneando el chip del
+  pasaporte, posiblemente sin turno presencial en VFS. El QR aparece dentro del
+  formulario, no se puede usar la app por adelantado. Verificar NFC activado.
+- eVisa digital vinculada al pasaporte italiano → viajar siempre con ese pasaporte.
+</content>
