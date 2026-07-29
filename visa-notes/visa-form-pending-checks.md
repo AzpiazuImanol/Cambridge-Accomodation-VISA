@@ -2,11 +2,14 @@
 
 _Estado al 28 julio 2026 (noche)._
 
-## Colleges — último estado
+## Colleges — RESUELTO ✅
 
-- **29/07:** Robinson retirado; aplicación **sometida a Lucy Cavendish** con pedido de
-  **prioridad** de Emily al admissions tutor (contacto personal). Ejecutado según lo
-  acordado en la llamada del 24/07. Esperando respuesta, turnaround esperado corto.
+- **29/07, 13:03:** **OFERTA DE MEMBERSHIP DE LUCY CAVENDISH**, el mismo día que
+  Admissions la sometió con pedido de prioridad. Saga cerrada tras Wolfson, Hughes,
+  Clare Hall, St Edmund's, Homerton y Robinson (retirada). College vecino de St
+  Edmund's (el de Lu). Portal offer-holders con credenciales en el mail del 29/07.
+- Próximo: mail a Emily/Jennifer para que manden los datos a ISO ya (CAS), pidiendo que
+  el CAS refleje £13.250 pagados + £10.000 Distinction Award.
 
 ## Estado actual
 
