@@ -2,6 +2,12 @@
 
 _Estado al 28 julio 2026 (noche)._
 
+## Colleges — último estado
+
+- **29/07:** Robinson retirado; aplicación **sometida a Lucy Cavendish** con pedido de
+  **prioridad** de Emily al admissions tutor (contacto personal). Ejecutado según lo
+  acordado en la llamada del 24/07. Esperando respuesta, turnaround esperado corto.
+
 ## Estado actual
 
 - La **1ª aplicación** (UAN 3434-9424-8924-2847) quedó bloqueada por la Declaration con
