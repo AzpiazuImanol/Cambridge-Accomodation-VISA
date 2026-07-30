@@ -1,6 +1,6 @@
 # Visa form — qué revisar cuando llegue el CAS
 
-_Estado al 28 julio 2026 (noche)._
+_Estado al 30 julio 2026._
 
 ## Colleges — RESUELTO ✅
 
@@ -8,8 +8,46 @@ _Estado al 28 julio 2026 (noche)._
   Admissions la sometió con pedido de prioridad. Saga cerrada tras Wolfson, Hughes,
   Clare Hall, St Edmund's, Homerton y Robinson (retirada). College vecino de St
   Edmund's (el de Lu). Portal offer-holders con credenciales en el mail del 29/07.
-- Próximo: mail a Emily/Jennifer para que manden los datos a ISO ya (CAS), pidiendo que
-  el CAS refleje £13.250 pagados + £10.000 Distinction Award.
+- **30/07: LA UNIVERSIDAD CONFIRMÓ EL LUGAR.** Carta de confirmación de Caitlin Law
+  (Admissions Director): se cumplieron **las diez condiciones** de la oferta y la
+  membership quedó actualizada en el Applicant Self-Service.
+
+## 🟢 CAS — ya no hay que pedirlo
+
+La carta del 30/07 dice textual que, si hace falta Student Visa, el **Postgrad Admissions
+Office (PAO)** manda el CAS por mail **poco después** de la confirmación de la Universidad.
+Ya está confirmada, así que el CAS sale solo: **vigilar la casilla**.
+
+Nota: la carta dice PAO, no ISO. Si a mitad de semana no llegó, reclamar a
+pgadmissions@lucy.cam.ac.uk y a Emily/Jennifer en paralelo.
+
+Sigue en pie el pedido de que el CAS refleje **£13.250 pagados + £10.000 Distinction
+Award**, para bajar los fondos a acreditar.
+
+## 🟠 FIF — lo único con acción nuestra
+
+**Financial Information Form** de Lucy Cavendish, link en el mail del 30/07 (palabra
+"here"). La carta pide completarlo **inmediatamente**.
+
+- Es **obligatorio también para MBA**, aunque los fees se paguen a Judge y no al college.
+  El college lo pide para saber cómo se financian el UCF y el Student Maintenance.
+- Las cifras salen de la **carta de oferta de Judge** (los MBA no tienen acceso al
+  self-service de la Universidad).
+- Se sube **un único PDF** con la evidencia: extractos recientes con fecha y monto. Se
+  aceptan capturas. Es el mismo material del requisito financiero de la visa.
+- **Destraba el alojamiento:** el link al booking de Castle Street llega automático recién
+  cuando Student Finance aprueba el FIF.
+
+## Alojamiento — corrección importante
+
+La carta dice: _"our Postgrad accommodation provision is **solely at Castle Street**"_. Los
+double flats y family flats de 100 Histon Road que figuran en el portal general **no aplican
+a esta cohorte**. Queda solo Castle Street, check-in desde el **12/09**. No se publica
+cuántos double studios hay, y la carta contempla que la demanda supere la oferta, así que
+**seguir con el alquiler privado en paralelo**.
+
+Pendiente: preguntar a pgadmissions si Lu, siendo estudiante de St Edmund's, califica como
+"partner" para un double studio. Draft en `email/lucy-couple-accommodation.md`.
 
 ## Estado actual
 
